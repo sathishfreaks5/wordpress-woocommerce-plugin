@@ -1,0 +1,4 @@
+*** Subscribe to Newsletter Changelog ***
+ 
+2019.01.05 - version 1.0
+* First Release
